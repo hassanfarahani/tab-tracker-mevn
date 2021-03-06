@@ -30,10 +30,10 @@ import SongHistoryService from '@/services/SongHistoryService'
         songs: [
             {
                 songId: {
-                    title: 'Hello World',
-                    artist: 'testing'
+                    title: '',
+                    artist: ''
                 },
-                createdAt: '2021-03-05T16:07:38.850Z'
+                createdAt: ''
             }
         ],
       }
@@ -44,7 +44,7 @@ import SongHistoryService from '@/services/SongHistoryService'
     async mounted() {
         if (this.isUserLoggedIn) {
             this.songs = (await SongHistoryService.index({
-                userId: this.user._id
+                // userId: this.user._id
             })).data
         }
     }
