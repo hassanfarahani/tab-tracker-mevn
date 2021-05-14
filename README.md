@@ -12,6 +12,10 @@ You can use this application to try to learn the song with guitar
 - Vue.js / Vuex
 - Mongodb
 - Node.js / Express.js
+- passport
+- JWT
+- Joi
+- Bcrypt
 
 ## Features
 
