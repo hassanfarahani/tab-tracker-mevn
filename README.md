@@ -36,3 +36,12 @@ $ cd server
 $ npm install
 $ npm start
 ```
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/48249708/118304729-e6cc2080-b49b-11eb-8c88-c3ea5cf33651.png)
+![image](https://user-images.githubusercontent.com/48249708/118304845-0bc09380-b49c-11eb-93cf-f7227d2fcde0.png)
+![image](https://user-images.githubusercontent.com/48249708/118304913-2561db00-b49c-11eb-9bc8-f9adbf5f1465.png)
+
+
+
